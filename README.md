@@ -38,6 +38,11 @@
 Developed a **text-to-voice converter** that assists visually impaired users in converting written text into **audible speech**. This project involves **natural language processing (NLP), voice synthesis**, and accessibility optimization.  
 🔗 **Project Link:** [Aatmanirbhar Aawaz](https://aatamanirbharaawaz.tiiny.site)
 
+### 🖼️ Wallpaper App - *Dynamic Wallpaper Generator*
+
+Developed a **web-based wallpaper application** that allows users to explore and download high-quality wallpapers. This project leverages  **HTML, CSS, JavaScript,** and **API integration** to provide a seamless browsing experience.🔗 
+🔗**Project Link** :[https://abhisharma640.github.io/-wallpaper-appp/]
+
 ---
 
 ## 💼 Work Experience
