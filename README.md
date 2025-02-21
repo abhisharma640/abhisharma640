@@ -1,15 +1,14 @@
-# Abhishek Sharma - Professional GitHub Bio Repository
+
 
 ## About Me
 
-🚀 Dynamic and detail-oriented **BCA Graduate** with a strong foundation in **Java, C, Python, and AI tools**. Passionate about **software development, prompt engineering**, and leveraging technology to solve real-world challenges.
+🚀 Dynamic and detail-oriented **Software Engineer** with a strong foundation in **Java, C, Python, and AI tools**. Passionate about **software development, prompt engineering**, and leveraging technology to solve real-world challenges.
 
 🎯 Currently seeking opportunities where I can apply my **technical skills, project experience, and industry certifications** to contribute effectively and grow professionally.
 
 📍 **Location:** Jaipur, Rajasthan, India
 
 📩 **Email:** abhishekmssharma564@gmail.com  
-🔗 **Portfolio:** [Visit Here](https://abhishek-sharma.tiiny.site)
 
 ---
 
@@ -20,13 +19,6 @@
 - **Additional Expertise:** Prompt Engineering, Data Analysis  
 
 ---
-
-## 🎓 Education
-
-- **Bachelor of Computer Applications (BCA)**  
-  *Sri Balaji Shiksha Samiti, Jaipur | Graduated: 2024 (60%)*  
-- **Senior Secondary (Class 12) - RBSE Board (2020)**  
-- **Secondary (Class 10) - RBSE Board (2018)**  
 
 ---
 
@@ -79,9 +71,9 @@ Developed a **text-to-voice converter** that assists visually impaired users in 
 
 ## 📫 Let's Connect!
 
-🌐 **Portfolio:** [Visit Here](https://abhishek-sharma.tiiny.site)  
+🌐 
 📩 **Email:** abhishekmssharma564@gmail.com  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/abhishek-sharma-5a318526b/]  
 🐙 **GitHub:** [Your GitHub Profile]  
 
 ---
